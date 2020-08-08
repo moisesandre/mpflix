@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front-End",
+            "descricao": "Um app bacana",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back-End",
+            "descricao": "Um app bacana 2",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
